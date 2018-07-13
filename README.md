@@ -11,7 +11,7 @@
 ### Node.js
 
 1.  Why is it important to understand asynchronous code to be a good Node.js developer?
-    - it's bacause everything in Node.js development is runinng asychronously, it means the website doesnt have to wait for one feature to complete in order to load another features. It can run everthing at the same time, and which can makes the website load faster.
+    - it's bacause everything in Node.js development is runinng asychronously, it means the website doesnt have to wait for one feature to complete in order to load other features. It can run everthing at the same time, and which can makes the website load faster.
 1.  Why do you commonly see files named `index.js` in Node?
     - it's bacause `index.js` and `app.js` are reserved names in Node. If you are trying to require a path without a specific file name then the system will look for those file with the reserved name.
 1.  What is `module.exports`?
