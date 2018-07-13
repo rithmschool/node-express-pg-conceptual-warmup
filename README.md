@@ -11,8 +11,9 @@
 ### Node.js
 
 1.  Why is it important to understand asynchronous code to be a good Node.js developer?
-1.  What is the purpose of `index.js` files?
-1.  How do Common.js modules work? What is a module in Common.js?
+1.  Why do you commonly see files named `index.js` in Node?
+1.  What is `module.exports`?
+1.  What does the `require` function do?
 
 ### Express.js
 
